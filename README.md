@@ -16,7 +16,7 @@ _Disclaimer: Information is provided 'as is' and solely for informational purpos
 ## How to install 📥
 
 ```py
-pip install oracle
+pip install the_oracle
 ```
 
 <br/>
@@ -24,4 +24,9 @@ pip install oracle
 ## How to use ⚙️
 
   
-Coming...
+```
+from the_oracle import oracle
+  
+...
+  
+```
