@@ -36,7 +36,7 @@ _Disclaimer: Information is provided 'as is' and solely for informational purpos
 pip install the-oracle
 ```
   
-## How to use ⚙️
+## How to use 💻
 
   
 ```py
