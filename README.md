@@ -10,6 +10,8 @@
 <br/>
 <br/>
   
+**The Oracle** is a **Python** library that uses several **prediction models** to predict **stocks returns** over a defined period of time.
+  
 _Disclaimer: Information is provided 'as is' and solely for informational purposes, not for trading purposes or advice._
 
 
@@ -17,7 +19,7 @@ _Disclaimer: Information is provided 'as is' and solely for informational purpos
 ## How to install 📥
 
 ```py
-pip install the_oracle
+pip install the-oracle
 ```
   
 ## How to use ⚙️
@@ -26,6 +28,11 @@ pip install the_oracle
 ```py
 from the_oracle import oracle
   
-...
+oracle(
+      portfolio=["TSLA", "AAPL", "NVDA", "NFLX,], #stocks you want to predict
+      start_date = "2020-01-01", #date from which it will take data to predict
+      weights = [0.3, 0.2, 0.3, 0.2], #allocate 30% to TSLA and 20% to AAPL... (equal weighting  by default)
+      prediction_days=30 #number of days you want to predict
+)
   
 ```
