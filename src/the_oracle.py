@@ -10,6 +10,7 @@ import warnings
 from warnings import filterwarnings
 
 
+#here the magic operates
 def oracle(portfolio, start_date, weights=None, prediction_days=None, based_on='Adj Close'):
 
 
