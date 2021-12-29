@@ -28,8 +28,6 @@ It was firstly introduced in one of my previous package called [**Empyrial**](ht
   
 _Disclaimer: Information is provided 'as is' and solely for informational purposes, not for trading purposes or advice._
 
-
-
 ## How to install 📥
 
 ```py
