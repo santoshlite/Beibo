@@ -18,13 +18,11 @@ _Disclaimer: Information is provided 'as is' and solely for informational purpos
 ```py
 pip install the_oracle
 ```
-
-<br/>
   
 ## How to use ⚙️
 
   
-```
+```py
 from the_oracle import oracle
   
 ...
