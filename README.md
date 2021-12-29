@@ -1,4 +1,4 @@
-# Oracle, predict the stock market 💸
+# The Oracle, predict the stock market 💸
 
 <br/>
 
