@@ -1,10 +1,10 @@
-# The Oracle, predict the stock market 💸
+# Beibo, predict the stock market 💸
 
 <br/>
 <br/>
 
 <p align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/61618641/147692854-f7001d42-9dca-414c-9301-819389729c43.png" alt="The Oracle logo")
+  <img height="150" src="https://user-images.githubusercontent.com/61618641/147692854-f7001d42-9dca-414c-9301-819389729c43.png" alt="Beibo logo")
 </p>
 
  <br/>
@@ -22,7 +22,7 @@
 <br/>
 <br/>
   
-**The Oracle** is a **Python** library that uses several **AI prediction models** to predict **stocks returns** over a defined period of time. 
+**Beibo** is a **Python** library that uses several **AI prediction models** to predict **stocks returns** over a defined period of time. 
 
 It was firstly introduced in one of my previous package called [**Empyrial**](https://github.com/ssantoshp/Empyrial). 
   
@@ -31,14 +31,14 @@ _Disclaimer: Information is provided 'as is' and solely for informational purpos
 ## How to install 📥
 
 ```py
-pip install the-oracle
+pip install beibo
 ```
   
 ## How to use 💻
 
   
 ```py
-from the_oracle import oracle
+from beibo import oracle
   
 oracle(
       portfolio=["TSLA", "AAPL", "NVDA", "NFLX"], #stocks you want to predict
@@ -55,7 +55,7 @@ oracle(
 <br/>
 
 <p align="center">
-  <img height="600" src="https://user-images.githubusercontent.com/61618641/147704638-8713f729-c196-4f13-b9f3-b57709ad7e65.png" alt="The Oracle output")
+  <img height="600" src="https://user-images.githubusercontent.com/61618641/147704638-8713f729-c196-4f13-b9f3-b57709ad7e65.png" alt="Beibo output")
 </p>
 
 <br/>
@@ -98,28 +98,28 @@ oracle(
 
 <div align="center">
 	
-![追星族的时间](https://starchart.cc/ssantoshp/The-Oracle.svg)
+![追星族的时间](https://starchart.cc/ssantoshp/Beibo.svg)
 	
 </div>
 
 ## Contribution and Issues
 
-The Oracle uses GitHub to host its source code.  *Learn more about the [Github flow](https://docs.github.com/en/get-started/quickstart/github-flow).*  
+Beibo uses GitHub to host its source code.  *Learn more about the [Github flow](https://docs.github.com/en/get-started/quickstart/github-flow).*  
 
 For larger changes (e.g., new feature request, large refactoring), please open an issue to discuss first.  
 
-* If you wish to create a new Issue, then [click here to create a new issue](https://github.com/ssantoshp/The-Oracle/issues/new/choose).  
+* If you wish to create a new Issue, then [click here to create a new issue](https://github.com/ssantoshp/Beibo/issues/new/choose).  
 
-Smaller improvements (e.g., document improvements, bugfixes) can be handled by the Pull Request process of GitHub: [pull requests](https://github.com/ssantoshp/The-Oracle/pulls).  
+Smaller improvements (e.g., document improvements, bugfixes) can be handled by the Pull Request process of GitHub: [pull requests](https://github.com/ssantoshp/Beibo/pulls).  
 
 * To contribute to the code, you will need to do the following:  
 
- * [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) [The Oracle](https://github.com/ssantoshp/The-Oracle) - Click the **Fork** button at the upper right corner of this page. 
- * [Clone your own fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository).  E.g., ```git clone https://github.com/ssantoshp/The-Oracle.git```  
+ * [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) [Beibo](https://github.com/ssantoshp/Beibo) - Click the **Fork** button at the upper right corner of this page. 
+ * [Clone your own fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository).  E.g., ```git clone https://github.com/ssantoshp/Beibo.git```  
   *If your fork is out of date, then will you need to manually sync your fork: [Synchronization method](https://help.github.com/articles/syncing-a-fork/)*
- * [Create a Pull Request](https://github.com/ssantoshp/The-Oracle/pulls) using **your fork** as the `compare head repository`. 
+ * [Create a Pull Request](https://github.com/ssantoshp/Beibo/pulls) using **your fork** as the `compare head repository`. 
 
-You contributions will be reviewed, potentially modified, and hopefully merged into the Oracle.  
+You contributions will be reviewed, potentially modified, and hopefully merged into Beibo.  
 
 **Contributions of any kind are welcome!**
 
@@ -131,7 +131,7 @@ You contributions will be reviewed, potentially modified, and hopefully merged i
 
 ## Contact
 
-You are welcome to contact us by email at **santoshpassoubady@gmail.com** or in Empyrial's [discussion space](https://github.com/ssantoshp/The-Oracle/discussions)
+You are welcome to contact us by email at **santoshpassoubady@gmail.com** or in Beibo's [discussion space](https://github.com/ssantoshp/Beibo/discussions)
 
 ## License
 
