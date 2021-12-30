@@ -4,7 +4,7 @@
 <br/>
 
 <p align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/61618641/147692854-f7001d42-9dca-414c-9301-819389729c43.png" alt="Beibo logo")
+  <img height="200" src="https://user-images.githubusercontent.com/61618641/147752368-7488930a-49d7-42ae-b14f-50555c5a721e.png" alt="Beibo logo")
 </p>
 
  <br/>
@@ -12,7 +12,7 @@
 <div align="center">
   
 ![](https://img.shields.io/badge/license-MIT-orange)
-![](https://img.shields.io/badge/version-0.1.2-blueviolet)
+![](https://img.shields.io/badge/version-0.1.1-blueviolet)
 ![](https://img.shields.io/badge/language-python🐍-blue)
 ![](https://img.shields.io/badge/Open%20source-💜-white)	
 [![Quickstart](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dn-JklrtCmALfWYz7uVWywVT4breQxm_?usp=sharing)
@@ -128,6 +128,7 @@ You contributions will be reviewed, potentially modified, and hopefully merged i
 - [Unit8](https://github.com/unit8co) for [Darts](https://github.com/unit8co/darts)
 - [@ranroussi](https://github.com/ranaroussi) for [yfinance](https://github.com/ranaroussi/yfinance) 
 - This random guy on Python's Discord server who helped me 
+- @devnull10 on Reddit who warned me when I called the package The Oracle
 
 ## Contact
 
